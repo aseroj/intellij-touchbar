@@ -6,4 +6,4 @@ Intellij Idea config file for BTT(Better Touch Tool)
 * import the `intellij-btt-touchbar.json` into BTT via  *Manage Presets* 
 
 #### what your touch bar will look like
-![alt text](screenshot.jpg "debug tool bar")
+![alt text](screenshot.png "debug tool bar")
